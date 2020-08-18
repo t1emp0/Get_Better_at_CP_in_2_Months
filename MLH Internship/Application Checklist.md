@@ -1,28 +1,31 @@
 Which of the following have you done before? 
-- [ ] Built a website with HTML, CSS, and JavaScript
-- [ ] Built a frontend web application with React or Vue
+- [X] Built a website with HTML, CSS, and JavaScript
+- [X] Built a frontend web application with React or Vue
 - [ ] Built a backend web application with Flask
 - [ ] Built a backend web application with Node.js
 - [ ] Built a backend web application with Ruby on Rails
-- [ ] Built a mobile application for iOS with Swift or Objective-CB
-- [ ] uilt a desktop application for macOS with Swift or Objective-C
+- [X] Built a mobile application for iOS with Swift or Objective-C
+- [ ] Built a desktop application for macOS with Swift or Objective-C
 - [ ] Built a cross platform desktop application with Electron
 - [ ] Built a cross platform mobile application with React Native
-- [ ] Learned a programming language outside of class
-- [ ] Used GitWritten unit testsUsed continuous integration
-- [ ] Created a pull requestUsed a package manager
+- [X] Learned a programming language outside of class
+- [X] Used Git
+- [X] Written unit tests
+- [ ] Used continuous integration
+- [X] Created a pull request
+- [ ] Used a package manager
 - [ ] Published a project to a package manager
 - [ ] Used a REST API
 - [ ] Built a REST API
 - [ ] Used a GraphQL API
 - [ ] Built a GraphQL API
 - [ ] Have contributed to Open Source
-- [ ] Asked a question on Stack Overflow
+- [X] Asked a question on Stack Overflow
 - [ ] Answered a question on Stack Overflow
-- [ ] Used Linux as my primary development environment
-- [ ] Used Windows as my primary development environment
+- [X] Used Linux as my primary development environment
+- [X] Used Windows as my primary development environment
 - [ ] Used macOS as my primary development environment
-- [ ] Demoed a project at a hackathon
-- [ ] Had a previous coding internship/full-time job
-- [ ] Given a tech talk
-- [ ] Debugged someone else's code
+- [X] Demoed a project at a hackathon
+- [X] Had a previous coding internship/full-time job
+- [X] Given a tech talk
+- [X] Debugged someone else's code
