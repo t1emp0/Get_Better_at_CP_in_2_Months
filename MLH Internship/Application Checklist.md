@@ -1,0 +1,23 @@
+Which of the following have you done before? 
+- [ ] Built a website with HTML, CSS, and JavaScript
+- [ ] Built a frontend web application with React or Vue
+- [ ] Built a backend web application with FlaskBuilt a backend web application with Node.js
+- [ ] Built a backend web application with Ruby on Rails
+- [ ] Built a mobile application for iOS with Swift or Objective-CBuilt a desktop application for macOS with Swift or Objective-C
+- [ ] Built a cross platform desktop application with Electron
+- [ ] Built a cross platform mobile application with React Native
+- [ ] Learned a programming language outside of class
+- [ ] Used GitWritten unit testsUsed continuous integration
+- [ ] Created a pull requestUsed a package manager
+- [ ] Published a project to a package manager
+- [ ] Used a REST APIBuilt a REST APIUsed a GraphQL API
+- [ ] Built a GraphQL APIHave contributed to Open Source
+- [ ] Asked a question on Stack Overflow
+- [ ] Answered a question on Stack Overflow
+- [ ] Used Linux as my primary development environment
+- [ ] Used Windows as my primary development environment
+- [ ] Used macOS as my primary development environment
+- [ ] Demoed a project at a hackathon
+- [ ] Had a previous coding internship/full-time job
+- [ ] Given a tech talk
+- [ ] Debugged someone else's code
